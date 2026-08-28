@@ -143,6 +143,10 @@
   packetPrototype: CarrotSeeds
   productPrototypes:
     - FoodCarrot
+  # Carpmosia-start - Mutates carrots into charrots
+  mutationPrototypes:
+    - charrots
+  # Carpmosia-end - Mutates carrots into charrots
   lifespan: 25
   maturation: 10
   production: 3

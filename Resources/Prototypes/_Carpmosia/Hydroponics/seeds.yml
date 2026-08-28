@@ -26,3 +26,46 @@
       Min: 5
       Max: 10
       PotencyDivisor: 20
+
+- type: seed
+  id: charrots
+  name: seeds-charrots-name
+  noun: seeds-noun-seeds
+  displayName: seeds-charrots-display-name
+  plantRsi: _Carpmosia/Objects/Specific/Hydroponics/charrot.rsi
+  packetPrototype: CharrotsSeeds
+  productPrototypes:
+  - FoodCharrot
+  lifespan: 50
+  maturation: 10
+  production: 3
+  yield: 2
+  potency: 10
+  growthStages: 3
+  idealLight: 6
+  waterConsumption: 0.5
+  nutrientConsumption: 0.3
+  idealHeat: 298
+  chemicals:
+    Carbon:
+      Min: 8.4
+      Max: 33.6
+      PotencyDivisor: 25
+    Ammonia:
+      Min: 0.8
+      Max: 8
+      PotencyDivisor: 10
+    Hydrogen:
+      Min: 0.5
+      Max: 5
+      PotencyDivisor: 10
+    Sulfur:
+      Min: 0.2
+      Max: 2
+      PotencyDivisor: 10
+    Mercury:
+      Min: 0.1
+      Max: 1
+      PotencyDivisor: 10
+
+#TBA: silver plant, uranium plant, plasma plant, salt plant, diamond plant(?)

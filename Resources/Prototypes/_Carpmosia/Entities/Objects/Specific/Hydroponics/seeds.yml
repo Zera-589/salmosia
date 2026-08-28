@@ -7,3 +7,12 @@
     seedId: crudcoa
   - type: Sprite
     sprite: _Carpmosia/Objects/Specific/Hydroponics/crudcoa.rsi
+- type: entity
+  parent: SeedBase
+  name: packet of charrot seeds
+  id: CharrotsSeeds
+  components:
+  - type: Seed
+    seedId: charrots
+  - type: Sprite
+    sprite: _Carpmosia/Objects/Specific/Hydroponics/charrot.rsi
