@@ -200,36 +200,6 @@
   - !type:SpawnEntity
     entity: IngotSilver1
 
-# Carpmosia-start - Even more solidification recipes
-
-- type: reaction
-  id: SolidifyUranium
-  impact: Low
-  quantized: true
-  reactants:
-    Uranium:
-      amount: 10
-    FrostOil:
-      amount: 5 
-  effects:
-  - !type:SpawnEntity
-    entity: SheetUranium1
-
-- type: reaction
-  id: SolidifyPlasma
-  impact: Low
-  quantized: true
-  reactants:
-    Plasma:
-      amount: 10
-    FrostOil:
-      amount: 5 
-  effects:
-  - !type:SpawnEntity
-    entity: SheetPlasma1
-
-# Carpmosia-end - Even more solidification recipes
-
 - type: reaction
   id: WehHewExplosion
   impact: High
