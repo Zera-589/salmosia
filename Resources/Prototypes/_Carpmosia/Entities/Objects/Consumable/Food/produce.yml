@@ -31,7 +31,7 @@
   parent: FoodProduceBase
   id: FoodCharrot
   name: charrot
-  description: A shimmering carrot-shaped coal formation, it bears an odd resemblance to a drill.
+  description: A carrot-shaped coal formation, it bears an odd resemblance to a drill.
   components:
   - type: FlavorProfile
     flavors:
@@ -93,5 +93,4 @@
         path: /Audio/Items/Mining/pickaxe.ogg
   - type: PhysicalComposition
     materialComposition:
-      Coal: 95
-      DiamondOre: 5
+      Coal: 100
