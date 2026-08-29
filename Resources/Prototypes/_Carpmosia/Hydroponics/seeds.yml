@@ -94,4 +94,5 @@
     TableSalt:
       Min: 10
       Max: 50
+      PotencyDivisor: 20
 #TBA: silver plant, uranium plant, plasma plant, diamond plant(?)
