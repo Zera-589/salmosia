@@ -1,7 +1,7 @@
 {
     "version": 1,
     "license": "CC-BY-SA-3.0",
-    "copyright": "Growth stages, produce, dead, harvest sprites drawn by Zera-589, seed bag edited from https://github.com/space-wizards/space-station-14/commit/e26e662023da11ea77c05e10ef46b77cee2041d0",
+    "copyright": "Growth stages, produce, dead, harvest sprites edited from tgstation, plant-26 made by Fazansen(https://github.com/Fazansen), seed bag edited from https://github.com/space-wizards/space-station-14/commit/e26e662023da11ea77c05e10ef46b77cee2041d0",
     "size": {
         "x": 32,
         "y": 32
@@ -14,9 +14,6 @@
             "name": "harvest"
         },
         {
-            "name": "produce"
-        },
-        {
             "name": "seed"
         },
         {
@@ -27,6 +24,15 @@
         },
         {
             "name": "stage-3"
+        },
+        {
+            "name": "stage-4"
+        },
+        {
+            "name": "stage-5"
+        },
+        {
+            "name": "stage-6"
         }
     ]
 }

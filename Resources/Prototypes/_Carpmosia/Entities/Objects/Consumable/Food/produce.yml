@@ -49,6 +49,8 @@
         Quantity: 0.2
       - ReagentId: Mercury
         Quantity: 0.1
+      - ReagentId: Nutriment
+        Quantity: 2
   - type: Sprite
     sprite: _Carpmosia/Objects/Specific/Hydroponics/charrot.rsi
   - type: Produce
