@@ -92,11 +92,6 @@
   harvest: true
   chemicals:
     TableSalt:
-      Min: 9.99
-      Max: 39.96
-      PotencyDivisor: 25
-    Iodine:
-      Min: 0.01 
-      Max: 0.1
-      PotencyDivisor: 10
+      Min: 10
+      Max: 50
 #TBA: silver plant, uranium plant, plasma plant, diamond plant(?)
