@@ -329,7 +329,7 @@
 
 - type: entity
   id: Biofabricator
-  parent: BaseLathe
+  parent: BaseLatheLube # Carpmosia-edit - cope for how slow the biocube fabricator is
   name: biocube fabricator
   description: Produces animal cubes using biomass.
   components:
@@ -360,6 +360,7 @@
   - type: Lathe
     idleState: icon
     runningState: building
+    timeMultiplier: 0.5 # Carpmosia-edit - cope for how slow the biocube fabricator is
     staticPacks:
     - FriendlyCubesStatic
   - type: EmagLatheRecipes
